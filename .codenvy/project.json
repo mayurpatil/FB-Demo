@@ -1,0 +1,1 @@
+{"runners":{"configs":{}},"builders":{"configs":{},"default":"maven"},"mixinTypes":[],"description":"Delete Later","type":"GAEJava","attributes":{"languageVersion":["1.6"],"language":["java"]}}
